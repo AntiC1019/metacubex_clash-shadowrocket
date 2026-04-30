@@ -500,6 +500,7 @@ DOMAIN-SUFFIX,time4.facebook.com
 DOMAIN-SUFFIX,time4.google.com
 DOMAIN-SUFFIX,time5.facebook.com
 DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
+DOMAIN-SUFFIX,tmdb-web-image-prod.b-cdn.net
 DOMAIN-SUFFIX,tv.applemusic.com
 DOMAIN-SUFFIX,tvcastlive-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
